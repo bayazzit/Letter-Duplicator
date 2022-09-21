@@ -1,0 +1,7 @@
+- You can write the text here where only the names are going to be changed
+- Please delete everything above the dashed line including the dashed line before you run the code!
+- Example:
+----------------------------------------------------------
+Dear [name],
+
+Hello from the World!
